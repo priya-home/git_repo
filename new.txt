@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>It is a HTML page</h1>
+<p>I am learning DEVOPS</p>
+
+</body>
+</html>
+
